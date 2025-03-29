@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Not being working on anymore, last real code update was 4 years ago
+  Not being worked on anymore, last real code update was 4 years ago
 </h1>
 
 <h1 align="center">
@@ -26,6 +26,8 @@
 `[p]repo add AndyCogs https://github.com/Andeeeee/AndyCogs`<br>
 `[p]cog install AndyCogs [cogname]`<br>
 `[p]load [cogname]`<br>
+
+Added to 100 servers ~ 45k+ members across (Discord limits bots to 100 servers before further verification)
 
 # Cogs 
 To view information or description of a cog, you can go to a folder and click on `info.json` for details
